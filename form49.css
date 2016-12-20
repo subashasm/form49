@@ -10,6 +10,158 @@ html {
     margin-right: 10px;
 }
 
+.ao-elements {
+    display: inline-block;
+    border: 2px solid;
+    margin-left: -6px;
+    margin-top: 10px;
+    width: 145px;
+    height: 34px;
+    font-size: 16px;
+    padding-top: 4px;
+    font-weight: 800;
+}
+
+.ao-elements:first-child {
+    margin-left: 10px;
+}
+
+#ao-value {
+    margin-top: -18px;
+    padding: 6px 9px;
+}
+
+.ac:first-child {
+    margin-left: 2px;
+}
+
+.ac {
+    height: 30px;
+    width: 49px;
+    border-radius: 0;
+    /*border-color: #000;*/
+    margin-left: -5px;
+    border: 2px solid;
+}
+
+.ao {
+    height: 30px;
+    width: 72px;
+    border-radius: 0;
+    /*border-color: #000;*/
+    margin-left: -5px;
+    border: 2px solid;
+}
+
+.rc {
+    height: 30px;
+    width: 49px;
+    border-radius: 0;
+    /*border-color: #000;*/
+    margin-left: -5px;
+    border: 2px solid;
+}
+
+.aon {
+    height: 30px;
+    width: 72px;
+    border-radius: 0;
+    /*border-color: #000;*/
+    margin-left: -5px;
+    border: 2px solid;
+}
+
+.ao-table {
+    border: 2px solid;
+}
+
+.label1 {
+    margin-left: 50px;
+}
+
+.label2 {
+    margin-right: 30px;
+}
+
+
+/*main form*/
+
+.user-txt {
+    height: 30px;
+    width: 30px;
+    border-radius: 0;
+    border-color: #000;
+    margin-left: -5px;
+    padding: 6px 7px;
+    text-align: center;
+}
+
+.user-email {
+    width: 92%;
+}
+
+.user-mail {
+    margin-top: 10px;
+}
+
+#useremail {
+    margin-left: -84px;
+}
+
+.form-group {
+    margin-top: 2px;
+}
+
+.form-group label {
+    margin-left: 30px;
+    font-weight: normal;
+}
+
+.form-control {
+    display: inline;
+}
+
+label span {
+    margin-left: 20px;
+}
+
+.para2 {
+    padding-left: 32px;
+}
+
+.checkbox input[type="checkbox"] {
+    /*width: 40%;*/
+    /*height: 40px;*/
+    transform: scale(1.5);
+}
+
+.checkbox {
+    position: relative;
+    display: block;
+    margin-top: -3px;
+    margin-bottom: 10px;
+    white-space: nowrap;
+}
+
+.bus-form {
+    margin-top: -7px;
+}
+
+.gender {
+    position: relative;
+    display: block;
+    margin-top: -26px;
+    margin-bottom: 10px;
+    margin-left: 444px;
+}
+
+.options {
+    margin-left: 4px;
+}
+
+
+/*ids*/
+
 #left-photo {
     float: left;
     width: 175px;
@@ -66,66 +218,6 @@ html {
     float: left;
 }
 
-.ao-elements {
-    display: inline-block;
-    border: 2px solid;
-    margin-left: -6px;
-    margin-top: 10px;
-    width: 145px;
-    height: 34px;
-    font-size: 16px;
-    padding-top: 4px;
-    font-weight: 800;
-}
-
-.ao-elements:first-child {
-    margin-left: 10px;
-}
-
-#ao-value {
-    margin-top: -17px;
-padding: 6px 8px;
-}
-
-.ac:first-child {
-   margin-left: 2px;
-}
-.ac {
-    height: 30px;
-    width: 49px;
-    border-radius: 0;
-    /*border-color: #000;*/
-    margin-left: -5px;
-    border: 2px solid;
-}
-
-.ao {
-    height: 30px;
-    width: 72px;
-    border-radius: 0;
-    /*border-color: #000;*/
-    margin-left: -5px;
-    border: 2px solid;
-}
-
-.rc {
-    height: 30px;
-    width: 49px;
-    border-radius: 0;
-    /*border-color: #000;*/
-    margin-left: -5px;
-    border: 2px solid;
-}
-
-.aon {
-    height: 30px;
-    width: 72px;
-    border-radius: 0;
-    /*border-color: #000;*/
-    margin-left: -5px;
-    border: 2px solid;
-}
-
 #table-style {
     width: 214%;
     margin-top: 12px;
@@ -137,8 +229,20 @@ padding: 6px 8px;
     margin-left: 34px;
 }
 
-.ao-table {
-    border: 2px solid;
+#down {
+    margin-left: 30px;
+}
+
+#heading3 {
+    font-size: 19px;
+}
+
+#para1 {
+    padding-left: 3px;
+}
+
+#div1 {
+    margin-bottom: 4px;
 }
 
 #thumb-impression {
@@ -164,62 +268,276 @@ padding: 6px 8px;
     margin-top: 80px;
     float: left;
     font-size: 18px;
-    margin-left: -157px;
+    margin-left: -11px;
 }
 
+#span1 {
+    padding-right: 28px;
+}
 
-/*main form*/
+#img1 {
+    height: 20px;
+    margin-left: -22px;
+}
 
-.a {
-    height: 30px;
-    width: 30px;
+#span2 {
+    padding-left: 5px;
+}
+
+#form-group1 {
+    margin-left: 35px;
+}
+
+#div2 {
+    margin-top: -1px;
+}
+
+#span3 {
+    padding-right: 28px;
+}
+
+#img2 {
+    height: 20px;
+    margin-left: -22px;
+}
+
+#span4 {
+    margin-left: 5px;
+}
+
+#label3,
+#line499 {
+    margin-left: 14px;
+}
+
+#label4 {
+    font-weight: bold;
+}
+
+#label5 {
+    margin-left: 150px;
+}
+
+#label6 {
+    margin-left: 100px;
+}
+
+#line918 {
     border-radius: 0;
     border-color: #000;
+    height: 30px;
+    width: 500px;
+    margin-left: 30px;
+}
+
+#line926 {
+    border-radius: 0;
+    border-color: #000;
+    height: 30px;
+    width: 330px;
     margin-left: -5px;
-    padding: 6px 9px;
 }
 
-.form-group {
-    margin-top: 2px;
-    
+#label7 {
+    margin-left: 100px;
 }
 
-.form-group label {
-    margin-left: 30px;
-    font-weight: normal;
-}
-
-.form-control {
-    display: inline;
-}
-
-label span {
-    margin-left: 20px;
-}
-
-#down {
+#line1142 {
+    border-radius: 0;
+    border-color: #000;
+    height: 30px;
+    width: 500px;
     margin-left: 30px;
 }
 
-.checkbox input[type="checkbox"] {
-    /*width: 40%;*/
-    /*height: 40px;*/
-    transform: scale(1.5);
-}
-.checkbox {
-    position: relative;
-    display: block;
-    margin-top: -3px;
-    margin-bottom: 10px;
+#line1150 {
+    border-radius: 0;
+    border-color: #000;
+    height: 30px;
+    width: 330px;
+    margin-left: -5px;
 }
 
-.gender {
-    position: relative;
-    display: block;
-    margin-top: -26px;
-    margin-bottom: 10px;
-    margin-left: 444px;
+#div3 {
+    margin-left: 29px;
+    margin-bottom: 6px;
 }
-.options{
-    margin-left: 4px;
+
+#div4 {
+    margin-left: 29px;
+}
+
+#div5 {
+    margin-left: -1px;
+}
+
+#div6 {
+    margin-left: 23px;
+}
+
+#div7 {
+    margin-left: -19px;
+}
+
+#para3 {
+    margin-left: -22px;
+    margin-top: -11px;
+}
+
+#para4 {
+    margin-left: -22px;
+    margin-top: -11px;
+}
+
+#para5 {
+    margin-top: -12px;
+    margin-left: -16px;
+}
+
+#para6 {
+    margin-left: -77px;
+}
+
+#para7 {
+    margin-left: 64px;
+}
+
+.para8 {
+    margin-left: -34px;
+}
+
+#para9 {
+    margin-left: -77px;
+}
+
+#div8 {
+    margin-top: -32px;
+    margin-left: 112px;
+}
+
+#para10 {
+    border-style: solid;
+    border-width: thin;
+    height: 140px;
+    margin-top: -19px;
+}
+
+#div9 {
+    margin-top: -12px;
+}
+
+#para11 {
+    border-style: solid;
+    border-width: thin;
+    padding: 2px;
+}
+
+
+/*madhu*/
+
+.he {
+    width: 25px;
+    height: 24px;
+    font-size: 20px;
+    margin: -1px -1px 3px -1px;
+    border: 1px solid;
+}
+
+.hhe {
+    width: 25px;
+    height: 24px;
+    font-size: 20px;
+    margin: -1px -1px 3px -1px;
+    border: 1px solid;
+    background-image: url("https://nexnet.files.wordpress.com/2013/02/kliponious-black-tick.png");
+    background-size: 22px 22px;
+}
+
+.she {
+    width: 70%;
+    height: 24px;
+    font-size: 20px;
+    margin-top: 3px;
+    border: 1px solid;
+}
+
+.she1 {
+    width: 30%;
+    height: 24px;
+    font-size: 20px;
+    border: 1px solid;
+}
+
+.she2 {
+    width: 70%;
+    height: 24px;
+    font-size: 20px;
+    border: 1px solid;
+}
+
+.she11 {
+    width: 44%;
+    height: 24px;
+    font-size: 20px;
+    border: 1px solid;
+}
+
+.container1 {
+    border-style: solid;
+    margin: 18px 30px;
+}
+
+.row1 {
+    font-weight: bold;
+    margin-left: 3px;
+}
+
+
+.box-layout{
+    broder-radius:0;
+}
+
+.row11 {
+    margin-left: 3px;
+}
+
+.row2 {
+    margin-left: inherit;
+}
+
+.row3 {
+    margin-top: 20px;
+    margin-left: inherit;
+}
+
+.row4 {
+    margin-left: inherit;
+}
+
+.row6 {
+    margin-left: 2px;
+}
+
+#marg {
+    margin-left: 117px !important;
+}
+
+#text {
+    margin-left: 40px;
+    font-size: 15px;
+    word-spacing: 5px;
+}
+
+#text1 {
+    margin-left: 40px;
+    font-size: 15px;
+}
+
+#place {
+    text-align: left;
+}
+
+#img1 {
+    height: 20px;
+    margin-left: -22px;
 }
